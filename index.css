@@ -1,0 +1,22 @@
+.container {
+    
+    margin: auto;
+    margin-top: 100px;
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.ind-div {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border: 0.1px solid black;
+}
+
+
+
+.black-back {
+    background-color: black;
+}
